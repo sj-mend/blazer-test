@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "MqDKCuWqTWwPprMlYL3MASkbqJ1kL+hWgwZ2qyXU3BGOzrOXMQprnkXOk2iA0HN0fuiOQ7dG+Gi8I6knlcdmXg==",
+  "success": false,
+  "projectFilePath": "C:\\wss\\code\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\SamuelJones\\AppData\\Roaming\\NuGet\\packages.config' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\SamuelJones\\AppData\\Roaming\\NuGet\\packages.config' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\SamuelJones\\AppData\\Roaming\\NuGet\\packages.config' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.Identity.UI"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\SamuelJones\\AppData\\Roaming\\NuGet\\packages.config' doesn't exist.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\SamuelJones\\AppData\\Roaming\\NuGet\\packages.config' doesn't exist.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools"
+    }
+  ]
+}
